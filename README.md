@@ -29,7 +29,7 @@ print("{:.2f}".format(value))
 
 
 ### OUTPUT:
-![OUTPUT]()
+![OUTPUT](https://github.com/charansai0/DISTANCE-BETWEEN-TWO-POINTS/blob/main/Screenshot%20(116).png?raw=true)
 
 
 ### RESULT:
